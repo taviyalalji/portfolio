@@ -407,7 +407,7 @@ form textarea{
         top: 100%;
     }
 }
-@media (max-width: 500px){
+/* @media (max-width: 500px){
     #menu-icon{
         display: block;
     }
@@ -420,4 +420,4 @@ form textarea{
     .home-text{
         font-size: 2rem;
     }
-}
+} */
