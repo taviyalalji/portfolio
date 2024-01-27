@@ -353,6 +353,11 @@ form textarea{
         padding: 15px 3%;
     }
 }
+@media (max-width: 1000px){
+.home-text h3{
+    font-size: 1rem;
+}
+}
 @media (max-width: 900px){
     :root{
         --big-font: 5rem;
@@ -360,9 +365,7 @@ form textarea{
         --p-font: 1.1rem;
         transition: 0.1s;
     }
-    .home-text{
-        font-size: 1rem;
-    }
+    
 }
 @media (max-width: 845px){
     .about{
