@@ -361,7 +361,7 @@ form textarea{
         transition: 0.1s;
     }
     .home-text{
-        font-size: 2.5rem;
+        font-size: 1rem;
     }
 }
 @media (max-width: 845px){
@@ -389,9 +389,7 @@ form textarea{
     .home{
         height: 164vh;
     }
-    .home-text h3{
-        font-size: 1rem;
-    }
+    
     .navlist{
         position: absolute;
         top: -1000px;
