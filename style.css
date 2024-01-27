@@ -356,6 +356,7 @@ form textarea{
 @media (max-width: 1000px){
 .home-text h3{
     font-size: 2.5rem;
+    background-color: red;
 }
 }
 @media (max-width: 900px){
