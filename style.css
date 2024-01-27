@@ -389,6 +389,9 @@ form textarea{
     .home{
         height: 164vh;
     }
+    .home-text h3{
+        font-size: 1rem;
+    }
     .navlist{
         position: absolute;
         top: -1000px;
