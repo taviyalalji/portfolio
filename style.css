@@ -407,3 +407,14 @@ form textarea{
         top: 100%;
     }
 }
+@media (max-width: 500px){
+    #menu-icon{
+        display: block;
+    }
+    header.sticky{
+        padding: 0px 2%
+       }
+    .home{
+        height: 195vh;
+    }
+}
