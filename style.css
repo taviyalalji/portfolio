@@ -417,4 +417,7 @@ form textarea{
     .home{
         height: 195vh;
     }
+    .home-text{
+        font-size: 2rem;
+    }
 }
