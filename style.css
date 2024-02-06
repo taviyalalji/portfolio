@@ -396,6 +396,9 @@ form textarea{
     .home{
         height: 100vh;
     } 
+    .home-text{
+        margin-top: 10px;
+    }
     .navlist{
         position: absolute;
         top: -1000px;
