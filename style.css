@@ -400,7 +400,8 @@ form textarea{
         margin-top: 10px;
     }
     .row img{
-        width: 50%;
+        width: 70%;
+        align-items: center;
     }
     .navlist{
         position: absolute;
