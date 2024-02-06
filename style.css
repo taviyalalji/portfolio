@@ -391,11 +391,11 @@ form textarea{
 @media (max-width: 750px){
     #menu-icon{
         display: block;
+        margin: 2px;
     }
     .home{
         height: 164vh;
-    }
-    
+    } 
     .navlist{
         position: absolute;
         top: -1000px;
