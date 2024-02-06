@@ -21,7 +21,7 @@ function sendEmail(){
         Username : "taviya2003@gmail.com",
         Password : "025FD410953CF014CFA4548DB2768BBB1A22",
         To : 'taviya2003@gmail.com',
-        // From : "demo23@gmail.com",
+        From : "demo23@gmail.com",
         // From: document.getElementById("#useremail").value,
         Subject : "This is the subject",
         Body : "And this is the body"
