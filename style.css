@@ -399,6 +399,9 @@ form textarea{
     .home-text{
         margin-top: 10px;
     }
+    .row img{
+        width: 50%;
+    }
     .navlist{
         position: absolute;
         top: -1000px;
