@@ -211,7 +211,9 @@ header.sticky{
     cursor: pointer;
     text-align: center;
     text-decoration: none;
-    color: #fff;
+}
+.row p{
+    color: white;
 }
 .row img{
     width: 100%;
