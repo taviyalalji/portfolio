@@ -209,6 +209,8 @@ header.sticky{
     overflow: hidden;
     border-radius: 8px;
     cursor: pointer;
+    text-align: center;
+    text-decoration: none;
 }
 .row img{
     width: 100%;
